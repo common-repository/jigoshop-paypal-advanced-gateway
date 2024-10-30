@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: paypal-advanced-gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-29 11:02+0200\n"
+"PO-Revision-Date: 2013-10-29 11:02+0200\n"
+"Last-Translator: Ivan Andreev <vanbo.develops@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../jigoshop-paypal-advanced-gateway.php:82
+#: ../jigoshop-paypal-advanced-gateway.php:106
+msgid "PayPal Payments Advanced"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:84
+msgid ""
+"PayPal Advanced offers you the ability to accept credit cards, PayPal, and "
+"Bill Me Later straight from your website."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:89
+msgid "Enable PayPal Advanced"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:96
+#: ../jigoshop-paypal-advanced-gateway.php:209
+#: ../jigoshop-paypal-advanced-gateway.php:221
+msgid "No"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:97
+#: ../jigoshop-paypal-advanced-gateway.php:208
+#: ../jigoshop-paypal-advanced-gateway.php:222
+msgid "Yes"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:102
+msgid "Method Title"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:104
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:111
+msgid "Description"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:113
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:115
+msgid "Make a payment using your credit/debit card or PayPal account."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:120
+msgid "User ID"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:122
+msgid ""
+"If you set up one or more additional users on the PayPal Advanced account, "
+"this value is the ID of the user authorized to process transactions. Leave "
+"blank, if you don't have additional accounts."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:129
+msgid "Vendor ID"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:131
+msgid ""
+"Your merchant login ID that you created when you registered for the PayPal "
+"Advanced account."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:138
+msgid "Parter ID"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:140
+msgid ""
+"The ID provided to you by the authorized PayPal Reseller who registered you "
+"for the Gateway gateway. If you purchased your account directly from PayPal, "
+"use PayPal."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:147
+msgid "Password"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:149
+msgid ""
+"The password that you defined while registering for the PayPal Advanced "
+"account."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:156
+msgid "Transaction Type"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:158
+msgid ""
+"Choose the transaction type you want to process.<br/> <strong>Sale</strong> "
+"- for instant capture.<br/> <strong>Authorization</strong> - to authorize "
+"and capture later."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:163
+msgid "Authorization"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:164
+msgid "Sale"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:169
+msgid "Payment Page Template"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:171
+msgid ""
+"Choose the payment page template you want to use. <strong>A</strong> and "
+"<strong>B</strong> will redirect the user to PayPal for payment. <strong>C</"
+"strong> will show a iframe payment page and the customer will stay on your "
+"site."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:176
+msgid "Layout - A"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:177
+msgid "Layout - B"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:178
+msgid "Layout - C"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:183
+msgid "Iframe Width"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:184
+msgid ""
+"Width of the iframe window, if Layout - C is your choosen template. Enter "
+"only numbers in pixels (i.e. 500)"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:192
+msgid "Iframe Height"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:193
+msgid ""
+"Height of the iframe window, if Layout - C is your choosen template. Enter "
+"only numbers in pixels (i.e. 565)"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:201
+msgid "Sandbox/Testmode"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:203
+msgid "Enable PayPal Payments Advanced sandbox for test payments."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:214
+msgid "Enable Debug"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:216
+msgid ""
+"Debug log will provide you with most of the data and events generated by the "
+"payment process."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:227
+msgid "Debug Email"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:229
+msgid ""
+"Email you want to receive all logs to.<br/> If email field is empty, the "
+"admin email will be used."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:392
+msgid "Discount"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:401
+msgid "Shipping"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:448
+#: ../jigoshop-paypal-advanced-gateway.php:455
+#, php-format
+msgid ""
+"Error: There was an error while processing your request. Error message: %s"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:450
+msgid ""
+"Error: There was an error while processing your request. Secure token was "
+"empty."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:554
+#: ../jigoshop-paypal-advanced-gateway.php:558
+#: ../jigoshop-paypal-advanced-gateway.php:674
+#, php-format
+msgid "Order payment was declined. Message: %s"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:609
+msgid "Error: payment verifiation failed."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:636
+msgid "Response received, but order was already paid for."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:657
+#, php-format
+msgid "PayPal Advanced Payment Completed. Reference number: %s. "
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:672
+#, php-format
+msgid "PayPal Advanced Payment Failed. Error message: %s"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:717
+#, php-format
+msgid ""
+"%sWe are sorry, but your payment did not go through. Please try again or "
+"contact us for help.%s"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:719
+#, php-format
+msgid ""
+"%sWe are sorry, but your payment was declined. Please try again or contact "
+"us for help.%s"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:855
+#, php-format
+msgid ""
+"The 'PayPal Advcanced Gateway' will <b>not</b> be available on the Checkout "
+"until you enter and activate your Licence Key for the plugin on the "
+"%sJigoshop->Manage Licences menu%s. The Advanced Gateway is "
+"<strong>currently disabled</strong> on the Jigoshop Payment Gateways "
+"settings tab"
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:861
+msgid ""
+"Attention: Your store currency is not supported by PayPal Advanced Gateway. "
+"PayPal Advanced is disabled. Supported currency is US Dollar (USD)."
+msgstr ""
+
+#: ../jigoshop-paypal-advanced-gateway.php:923
+#, php-format
+msgid "[%s] %s"
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:119
+#, php-format
+msgid ""
+"The License key for <i><b>%s</b></i> is not valid . Please enter your "
+"<b>Licence Key</b> on the Jigoshop->Manage Licences Menu with your <b>Order "
+"email address</b>.  Until then, the plugin will not be enabled for use."
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:140
+#: ../licence-validator/licence-validator.php:141
+msgid "Manage Licences"
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:226
+#, php-format
+msgid ""
+"<b>Key deactivated.</b> License key for <i>%s</i> has been <b>deactivated</"
+"b>."
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:238
+#, php-format
+msgid "%s deactivation: "
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:254
+#, php-format
+msgid ""
+"<b>Key activated.</b> License key for <i>%s</i> has been <b>activated</b>."
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:267
+#, php-format
+msgid "%s activation: "
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:355
+msgid "No update information available."
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:538
+msgid "Manage Jigoshop Digital Plugin Licences"
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:545
+msgid ""
+"To <em>activate</em> the licence, enter your licence keys and email "
+"addresses you used when you ordered the plugins."
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:546
+msgid ""
+"<br />To <em>de-activate</em> the licence, remove the licence key, but leave "
+"the email address."
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:570
+msgid "Activation email"
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:578
+msgid "Licence is inactive!"
+msgstr ""
+
+#: ../licence-validator/licence-validator.php:590
+msgid "Save"
+msgstr ""

@@ -1,0 +1,1 @@
+<iframe src="<?php echo $location; ?>" width="<?php echo $width; ?>" height="<?php echo $height; ?>" border="0" frameborder="0" scrolling="no" allowtransparency="true">\n</iframe>
